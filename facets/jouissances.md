@@ -1,8 +1,8 @@
 #Corpus 
 
-#Liste d'incipit: 
+Liste d'incipit: 
 
-<u>« Aujourd’huy dans tes bras j’ay demeuré pasmée » </u>
+« Aujourd’huy dans tes bras j’ay demeuré pasmée »
 « L’autre jour pressé du desir »
 « Tirsis s’en alloit mourir d’aise »
 « Apres tant de faveurs, ne craignez pas, Silvie »
