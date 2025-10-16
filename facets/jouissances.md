@@ -22,6 +22,8 @@
 
 « Thyrsis estant entré un matin chez Sylvie, »
 
+######jouissance
+
 « Nanon qu’on retenoir assé étroitement, »
 
 « Vivons, adorable Aspasie »
