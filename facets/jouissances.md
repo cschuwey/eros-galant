@@ -1,12 +1,12 @@
-# Corpus "Jouissances" : 
+# Corpus "Jouissances"
 
-## Listes d'incipit
+Listes d'incipit
 
 « Aujourd’huy dans tes bras j’ay demeuré pasmée »
 
 « L’autre jour pressé du desir »
 
-« Tirsis s’en alloit mourir d’aise »
+« Tirsis s’en alloit mourir d’aise » 
 
 « Apres tant de faveurs, ne craignez pas, Silvie »
 
