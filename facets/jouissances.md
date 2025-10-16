@@ -1,6 +1,6 @@
 # Corpus "Jouissances"
 
-Listes d'incipit
+<ins>Listes d'incipit</ins>
 
 « Aujourd’huy dans tes bras j’ay demeuré pasmée »
 
