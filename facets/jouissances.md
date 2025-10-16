@@ -1,4 +1,6 @@
-# Liste d'incipits: 
+# Corpus "Jouissances" : 
+
+## Listes d'incipit
 
 « Aujourd’huy dans tes bras j’ay demeuré pasmée »
 
