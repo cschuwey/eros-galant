@@ -1,2 +1,3 @@
 #Diversité des genres
+
 Le thème érotique circule à partir du second XVIIe siècle dans une grande diversité de textes. Il ne se restreint plus aux genres réputés grivois ou liciencieux comme la poésite satyrique mais trouve sa place dans l'ensemble de la production littéraire de la période. De la nouvelle au roman, en passant par le théâtre et le dialogue, l'érotisme imprègne très largement la production dite galante, en phase avec les goûts du public mondain. Il n'est plus seulement associé aux interdits et aux tabous mais témoigne de la curiosité - très vive -  du public en matière de sexualité et de plaisir.
