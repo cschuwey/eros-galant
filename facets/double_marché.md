@@ -1,4 +1,4 @@
-#Double marché
+# Double marché
 
 La production érotique investit largement le marché du livre et circule aussi bien dans des éditions pirates que dans des livres « avec privilèges ». Se dessine alors un double marché que se partagent ouvrages interdits, le plus souvent imprimés en Hollande, et ouvrages autorisés. La distinction est, en pratique, poreuse et mouvante : elle dépend à la fois des politiques de censure, des stratégies éditoriales et des réseaux de diffusion. Les frontières entre licite et illicite s’estompent dans un jeu subtil de contournements : les éditeurs français recourent fréquemment à de fausses adresses — souvent hollandaises ou suisses — pour masquer l’origine réelle des impressions, tandis que certains textes érotiques paraissent simultanément en version expurgée bénéficiant d’un privilège royal, et en version non expurgée diffusée clandestinement.
 
