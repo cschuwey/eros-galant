@@ -22,8 +22,6 @@
 
 « Thyrsis estant entré un matin chez Sylvie, »
 
-######jouissance
-
 « Nanon qu’on retenoir assé étroitement, »
 
 « Vivons, adorable Aspasie »
@@ -43,3 +41,5 @@
 « La jeune Cloris après mille combats »
 
 « Accablé de l’inquiétude / que cause l’ardeur de l’été »
+
+###### jouissance
