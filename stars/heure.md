@@ -1,3 +1,3 @@
 # L'Heure du Berger
 
-[This is an external link to genome.gov](https://www.genome.gov/)
+Un homme a rendez-vous avec son amante Phiamie en pleine nuit. Sur le chemin, il rencontre deux  femmes masquées, qui lui promettent l'heure du berger. Il se rend chez elles... 
