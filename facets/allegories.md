@@ -1,2 +1,2 @@
-#Allégories
+# Allégories
 Lorem ipsum
