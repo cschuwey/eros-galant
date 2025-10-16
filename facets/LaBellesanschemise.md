@@ -1,7 +1,7 @@
 #La Belle sans chemise
 
 
-Se passe à Lyon. Angélique, 19ans, est mise dans un couvent par sa mère. Initialement, résiste. Mais la mère insiste.
+Se passe à Lyon. Angélique, 19ans, est mise dans un couvent par sa mère. Initialement, elle résiste. Mais la mère insiste.
 
 _Cent duretés de cette nature n’étant pas capables de changer le cœur d’Angélique, cette mère déraisonnable s’avisa d’un dernier moyen, qui fut d’aller tenter son confesseur, qu’elle conjura de vouloir engager sa fille à lui obéir et à prendre le voile._
 
