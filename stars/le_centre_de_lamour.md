@@ -10,4 +10,4 @@ La préface et les textes sont republiés (sans les gravures et sans les textes 
 
 images/Centre_Essai.png
 
-[test d'image2](images/Centre_Essai.png)
+[test d'image2](/Centre_Essai.png)
