@@ -7,3 +7,7 @@ La préface et les textes sont republiés (sans les gravures et sans les textes 
 ## Essai d'ajout d'image
 
 [test d'image](/main/images/Centre_Essai.png)
+
+images/Centre_Essai.png
+
+[test d'image2](images/Centre_Essai.png)
